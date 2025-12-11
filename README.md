@@ -19,6 +19,7 @@ Também é possível fazer uma transformação de filtro para determinarmos os v
 ### Funções e fórmulas
 
 Função de ganho em frequência de Butterworth passa-baixas e passa-altas (frequência normalizada):
+
 $$
 G(\omega) = \dfrac{1}{\sqrt{1 + \omega^{2n}}} \quad (1.0)
 $$
