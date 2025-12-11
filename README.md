@@ -50,11 +50,11 @@ $$
 Trasformação de filtro RLC passa-baixas para passa-altas:
 
 $$
-L' \rarr C = \dfrac{1}{ L'} \quad (4.0)
+L' \rightarrow C = \dfrac{1}{ L'} \quad (4.0)
 $$
 
 $$
-C' \rarr L = \dfrac{1}{ C'} \quad (4.1)
+C' \rightarrow L = \dfrac{1}{ C'} \quad (4.1)
 $$
 
 Funções de transferência de filtros RLC passa-baixas e passa-altas de segunda ordem:
